@@ -1,0 +1,16 @@
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\bin\Debug\net5.0\sistema_gerenciamento_empresarial.exe
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\bin\Debug\net5.0\sistema_gerenciamento_empresarial.deps.json
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\bin\Debug\net5.0\sistema_gerenciamento_empresarial.runtimeconfig.json
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\bin\Debug\net5.0\sistema_gerenciamento_empresarial.runtimeconfig.dev.json
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\bin\Debug\net5.0\sistema_gerenciamento_empresarial.dll
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\bin\Debug\net5.0\ref\sistema_gerenciamento_empresarial.dll
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\bin\Debug\net5.0\sistema_gerenciamento_empresarial.pdb
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.csproj.AssemblyReference.cache
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.AssemblyInfoInputs.cache
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.AssemblyInfo.cs
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.csproj.CoreCompileInputs.cache
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.dll
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\ref\sistema_gerenciamento_empresarial.dll
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.pdb
+C:\code\aprendizado\csharp\exemplos\sistema_gerenciamento_empresarial\obj\Debug\net5.0\sistema_gerenciamento_empresarial.genruntimeconfig.cache

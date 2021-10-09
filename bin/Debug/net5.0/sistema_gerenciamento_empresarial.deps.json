@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "sistema_gerenciamento_empresarial/1.0.0": {
+        "runtime": {
+          "sistema_gerenciamento_empresarial.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sistema_gerenciamento_empresarial/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
