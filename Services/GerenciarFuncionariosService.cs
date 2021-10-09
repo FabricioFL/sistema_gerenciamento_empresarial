@@ -11,10 +11,10 @@ class GerenciarFuncionariosService : Salario
         char separator = Path.AltDirectorySeparatorChar;
         string path = $@"Data{separator}funcionarios.txt";
 
-        Console.WriteLine("______________________________\nDigite o nome do funcionario:\n______________________________");
+        Console.WriteLine("______________________________\nDigite o nome do funcionário:\n______________________________");
         string nome = Console.ReadLine();
         Console.Clear();
-        Console.WriteLine("______________________________\nDigite o cargo do funcionario:\n______________________________");
+        Console.WriteLine("______________________________\nDigite o cargo do funcionário:\n______________________________");
         string cargo = Console.ReadLine();
         File.AppendAllText(path, $"\n\n{FuncionarioInfo(nome, cargo)}\n\n");
     }
@@ -22,15 +22,26 @@ class GerenciarFuncionariosService : Salario
     protected static void DeletarFuncionario()
     {
         Console.Clear();
-       Console.WriteLine("______________________________\nDigite o nome do funcionario:\n______________________________");
+        char separator = Path.AltDirectorySeparatorChar;
+        string path = $@"Data{separator}funcionarios.txt";
+        if(!File.Exists(path))
+        {
+            Console.WriteLine("Não há funcionários para deletar");
+            Console.ReadKey();
+            Menus.MenuPrincipal();
+            
+        }else
+        {
+            
+        }
+       Console.WriteLine("______________________________\nDigite o nome do funcionário:\n______________________________");
         string nome = Console.ReadLine();
         Console.Clear();
-        Console.WriteLine("______________________________\nDigite o cargo do funcionario:\n______________________________");
+        Console.WriteLine("______________________________\nDigite o cargo do funcionário:\n______________________________");
         string cargo = Console.ReadLine();
         Console.Clear();
 
-        char separator = Path.AltDirectorySeparatorChar;
-        string path = $@"Data{separator}funcionarios.txt";
+
         Salario funcionario = new Salario();
         double salario = funcionario.Calular_Salario(cargo);
 
@@ -43,7 +54,6 @@ class GerenciarFuncionariosService : Salario
         string arquivoPosDeleta = File.ReadAllText(path);
         if(arquivoPosDeleta.Equals(string.Empty))
             File.Delete(path);
-     
     }
 
 
